@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to Ernie Lopez's slide deck!"
+title: "Ernie Lopez's slide deck!"
 ---
 
 Github Training
