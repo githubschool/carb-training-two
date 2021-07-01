@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck!!"
 ---
 
-Caption here
+Need coffee!
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
